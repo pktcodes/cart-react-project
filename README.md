@@ -12,7 +12,7 @@
 - To run the project locally, clone the repo, `npm install` to install the dependencies, and `npm start` to start up the development server on default port 3000.
 
 #### Languages
-HTML, CSS, JavaScript, ECMAScript, React ~ ContextAPI - Hooks ~ useState, useEffect, useReducer, useContext
+HTML, CSS, JavaScript, ECMAScript, React ~ ContextAPI - Hooks ~ useEffect, useReducer, useContext
 
 #### Packages
 [React Icons](https://www.npmjs.com/package/react-icons)
